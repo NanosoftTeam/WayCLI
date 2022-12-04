@@ -1,0 +1,3 @@
+/run/media/norwagovmain/9bad5c61-3204-45e5-9842-39966992db93/WayCLI/CMakeFiles/WayCLI.dir
+/run/media/norwagovmain/9bad5c61-3204-45e5-9842-39966992db93/WayCLI/CMakeFiles/edit_cache.dir
+/run/media/norwagovmain/9bad5c61-3204-45e5-9842-39966992db93/WayCLI/CMakeFiles/rebuild_cache.dir
