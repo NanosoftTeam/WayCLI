@@ -1,1 +1,0 @@
-/usr/bin/cc -rdynamic CMakeFiles/WayCLI.dir/TUI/tui.c.o CMakeFiles/WayCLI.dir/main.c.o -o WayCLI 
